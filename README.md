@@ -1,8 +1,6 @@
 # Leetcode-30-Days-Code-Challenge-May-2020
  Leetcode-30-Days-Code-Challenge-May-2020
 
- Repository containing my solutions to 30 Days Code Challenge May-2020 on Leetcode.
-
  Code available in :Java
  
  Author
