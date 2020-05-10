@@ -4,7 +4,10 @@
  Repository containing my solutions to 30 Days Code Challenge May-2020 on Leetcode.
 
  Code available in :Java
-
+ 
+ Author
+ [Raju Raghuwanshi](https://www.linkedin.com/in/raju-raghuwanshi/)
+ 
  Week-1
  
  2-[Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)
@@ -26,8 +29,3 @@
  2-[Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)
  
  3-[Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)
-
-
- Author
- [Raju Raghuwanshi](https://www.linkedin.com/in/raju-raghuwanshi/)
-
