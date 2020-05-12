@@ -22,7 +22,7 @@
 
  Week-2
  
- 1-[Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/), [Solution](/week2/Solution1.java)
+ 1-Problem:-[Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/), [Solution](/week2/Solution1.java)
  
  2-[Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)
  
@@ -37,3 +37,20 @@ Extra:-
 1-[Word Search](https://leetcode.com/problems/word-search/)
 
 2-[Word Search II](https://leetcode.com/problems/word-search-ii/)
+
+ Week-1 :- 
+
+| Problem            | Solution      |
+| -------------------| ------------- |
+| Day-2 [Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)  | [Solution](/week2/Solution1.java)  |
+| Day-3      | Content Cell  |
+| Content Cell     | Content Cell  |
+| Content Cell     | Content Cell  |
+| Content Cell     | Content Cell  |
+| Content Cell     | Content Cell  |
+| Content Cell     | Content Cell  |
+| Content Cell     | Content Cell  |
+| Content Cell     | Content Cell  |
+| Content Cell     | Content Cell  |
+| Content Cell     | Content Cell  |
+
