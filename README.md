@@ -30,6 +30,8 @@
  
  4-[Flood Fill](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/)
 
+ 5-[Single Element in a Sorted Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)
+ 
 Extra:-
 
 1-[Word Search](https://leetcode.com/problems/word-search/)
